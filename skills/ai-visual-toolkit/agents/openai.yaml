@@ -1,0 +1,9 @@
+interface:
+  display_name: "AI Visual Toolkit"
+  short_description: "Expressive React visuals and UI primitives"
+  brand_color: "#F97316"
+  default_prompt: "Use $ai-visual-toolkit to build or extend this expressive React visual system."
+
+policy:
+  allow_implicit_invocation: true
+
